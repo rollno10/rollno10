@@ -28,4 +28,6 @@ Some of the toys which I play with are Web Apps, API's and Spring framework.
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,vscode,mysql,html,css,js,react,github,redis,stackoverflow&perline=10" /></a>
   </p>
 
+</br></br>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pro_sol?theme=dark&font=Dokdo)
