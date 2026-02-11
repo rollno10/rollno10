@@ -5,7 +5,7 @@
 </h2>
 
 <img align="right"  width="370" height="290" src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" />
-
+</br></br>
 <p aligh="left" >📍I am Suman from India, and I do backend development.
 I enjoy learning new technologies and exploring tech.
 Some of the toys which I play with are Spring framework and Dropwizard.
@@ -16,7 +16,7 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 - ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
 </p>
 
-</br></br></br></br>
+</br></br>
 
 <!--
 **rollno10/rollno10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
