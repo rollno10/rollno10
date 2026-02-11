@@ -8,16 +8,14 @@
 
 </br></br>
 
-<p aligh="left" >📍I am Harish, I do backend development.
+📍I am Harish, I do backend development.
 I enjoy learning new technologies and exploring tech.
 Some of the toys which I play with are Web Apps, API's and Spring framework.
 
 - 🔭 Here's my [portfolio](https://tourmaline-twilight-f7fb07.netlify.app/) 
--  I’m working on Building Web-Based apps using Java tech stack.
+-  I’m working on Web-Based apps using Java tech stack.
 - 🌱 I’m currently learning DSA, Java full stack and exploring the Spring framework family.
-- ⚡ Fun fact: The first website ever created is **still online** — [info.cern.ch](http://info.cern.ch). Have a look and step back into the dawn of the web!
-</p>
-
+- ⚡ Fun fact: The first website ever created is **still online** — [info.cern.ch](http://info.cern.ch).
 </br></br>
 
 <!--
