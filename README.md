@@ -16,7 +16,8 @@ Some of the toys which I play with are Web Apps, API's and Spring framework.
 - 🔭 I’m working on Web-Based apps using Java tech stack.
 - 🌱 I’m currently learning DSA, Java full stack and exploring the Spring framework family.
 - ⚡ Fun fact: The first website ever created is **still online** — [info.cern.ch](http://info.cern.ch).
-- 
+- 📫[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+
 </br></br>
 
 <h2 align="left">Languages and Tools:</h2>
@@ -25,8 +26,3 @@ Some of the toys which I play with are Web Apps, API's and Spring framework.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,vscode,mysql,html,css,js,react,github,redis,stackoverflow&perline=10" /></a>
   </p>
-
-<i><h3 align="right">Connect with me</h3></i>
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
-
-
