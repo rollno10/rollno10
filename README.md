@@ -1,19 +1,21 @@
 <h2 align="left">
  Hi there 
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
- It's me Hareesh
+ It's me Harish
 </h2>
 
 <img align="right"  width="370" height="290" src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" />
-</br></br>
-<p aligh="left" >📍I am Suman from India, and I do backend development.
-I enjoy learning new technologies and exploring tech.
-Some of the toys which I play with are Spring framework and Dropwizard.
 
-- 🔭 I’m working on Building web apps using Java tech stack.
-- 🌱 I’m currently learning Java and exploring the Spring framework family.
-- 📫 Reach me @ https://www.sumanshekhar.com/
-- ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
+</br></br>
+
+<p aligh="left" >📍I am Harish, I do backend development.
+I enjoy learning new technologies and exploring tech.
+Some of the toys which I play with are Web Apps, API's and Spring framework.
+
+- 🔭 Here's my [portfolio](https://tourmaline-twilight-f7fb07.netlify.app/) 
+-  I’m working on Building Web-Based apps using Java tech stack.
+- 🌱 I’m currently learning DSA, Java full stack and exploring the Spring framework family.
+- ⚡ Fun fact: The first website ever created is **still online** — [info.cern.ch](http://info.cern.ch). Have a look and step back into the dawn of the web!
 </p>
 
 </br></br>
