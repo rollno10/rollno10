@@ -6,6 +6,16 @@
 
 <img align="right"  width="370" height="290" src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" />
 
+<p aligh="left" >📍I am Suman from India, and I do backend development.
+I enjoy learning new technologies and exploring tech.
+Some of the toys which I play with are Spring framework and Dropwizard.
+
+- 🔭 I’m working on Building web apps using Java tech stack.
+- 🌱 I’m currently learning Java and exploring the Spring framework family.
+- 📫 Reach me @ https://www.sumanshekhar.com/
+- ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
+</p>
+
 </br></br></br></br>
 
 <!--
