@@ -9,8 +9,8 @@
 </br></br>
 
 📍I am Harish, I do backend development.
-I enjoy learning new technologies and exploring tech.
-Some of the toys which I play with are Web Apps, API's and Spring framework.
+-I enjoy learning new technologies and exploring tech.
+-Some of the toys which I play with are Web Apps, API's and Spring framework.
 
 - 🔭 Here's my [portfolio](https://tourmaline-twilight-f7fb07.netlify.app/) 
 - 🔭 I’m working on Web-Based apps using Java tech stack.
