@@ -23,7 +23,7 @@ Some of the toys which I play with are Web Apps, API's and Spring framework.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,vscode,mysql,html,css,js,react,websocket,git,redis,stackoverflow&perline=12" /></a>
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,vscode,mysql,html,css,js,react,github,redis,stackoverflow&perline=10" /></a>
   </p>
 
 <!--
