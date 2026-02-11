@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning DSA, Java full stack and exploring the Spring framework family.
 - ⚡ Fun fact: The first website ever created is **still online** — [info.cern.ch](http://info.cern.ch).
   
-<i><h3>Connect with me</h3></i>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+<i><h3>Connect with me</h3></i>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harish-n-b64119276/)
 
 </br></br>
 
