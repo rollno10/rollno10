@@ -30,4 +30,6 @@ Some of the toys which I play with are Web Apps, API's and Spring framework.
 
 </br></br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/pro_sol?theme=dark&font=Dokdo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/pro_sol?theme=dark&font=Dokdo&ext=heatmap)
+
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rollno10&bg_color=22111a&color=d5aad2&line=b2bf4a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
