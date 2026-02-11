@@ -1,7 +1,14 @@
 <h2 align="left">
- Hi there It's me Hareesh
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ Hi there 
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ It's me Hareesh
 </h2>
+
+<img  src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" />
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sumanshekhar698&label=Profile%20views&color=0e75b6&style=flat" alt="sumanshekhar" /> </p>
+
+</br></br></br></br>
 
 <!--
 **rollno10/rollno10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
