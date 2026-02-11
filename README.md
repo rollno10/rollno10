@@ -4,9 +4,7 @@
  It's me Hareesh
 </h2>
 
-<img  src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" />
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sumanshekhar698&label=Profile%20views&color=0e75b6&style=flat" alt="sumanshekhar" /> </p>
+<p align="left"> <img  src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" /> </p>
 
 </br></br></br></br>
 
