@@ -4,7 +4,7 @@
  It's me Hareesh
 </h2>
 
-<p align="right"  width="370" height="290" > <img  src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" /> </p>
+<img align="right"  width="370" height="290" src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" />
 
 </br></br></br></br>
 
