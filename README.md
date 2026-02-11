@@ -13,10 +13,18 @@ I enjoy learning new technologies and exploring tech.
 Some of the toys which I play with are Web Apps, API's and Spring framework.
 
 - 🔭 Here's my [portfolio](https://tourmaline-twilight-f7fb07.netlify.app/) 
--  I’m working on Web-Based apps using Java tech stack.
+- 🔭 I’m working on Web-Based apps using Java tech stack.
 - 🌱 I’m currently learning DSA, Java full stack and exploring the Spring framework family.
 - ⚡ Fun fact: The first website ever created is **still online** — [info.cern.ch](http://info.cern.ch).
+- 
 </br></br>
+
+<h2 align="left">Languages and Tools:</h2>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,idea,eclipse,vscode,vim,redis,mongodb,mysql,html,css,js,nodejs,graphql,bootstrap,py,docker,netlify,git,stackoverflow,nginx,jenkins&perline=12" /></a>
+  </p>
 
 <!--
 **rollno10/rollno10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
