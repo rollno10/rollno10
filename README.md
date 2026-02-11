@@ -26,7 +26,7 @@ Some of the toys which I play with are Web Apps, API's and Spring framework.
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,vscode,mysql,html,css,js,react,github,redis,stackoverflow&perline=10" /></a>
   </p>
 
-<p  align = "right" ><i><h3 align="right">Connect with me</h3></i>
+<i><h3 align="right">Connect with me</h3></i>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
-</p>
+
 
